@@ -1,6 +1,5 @@
 #
-# Cookbook:: build_cookbook
+# Cookbook:: apache1
 # Recipe:: default
 #
 # Copyright:: 2017, The Authors, All Rights Reserved.
-include_recipe 'delivery-truck::default'
